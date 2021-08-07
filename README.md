@@ -19,8 +19,8 @@ Jupyter Notebook are useful for interactive coding and visualization.
 **Most useful Kyeboard shortcuts**
 
 A  - Add a code cell above the current cell  
-B  - Add a code below the current cell  
-DD - Delete the curret code cell  
+B  - Add a code cell below the current cell  
+DD - Delete the current cell  
 M  - Convert a CODE cell to MARKDOWN cell  
 Y  - Convert a MARKDOWN cell to CODE cell  
 H  - Display all the available Keyboard Shortcuts 
