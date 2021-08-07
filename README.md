@@ -25,4 +25,4 @@ M  - Convert a CODE cell to MARKDOWN cell
 Y  - Convert a MARKDOWN cell to CODE cell  
 H  - Display all the available Keyboard Shortcuts 
 
-(Note - These shortcuts work only in Command Mode. To switch to command mode type 'Esc').
+(Note - These shortcuts work only in Command Mode. To switch to command mode pres 'Esc' key).
